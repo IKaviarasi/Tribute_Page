@@ -1,0 +1,36 @@
+body{
+	margin: 30px;
+	padding: 10px;
+	border:hidden;
+	background-color: #FFB499;
+}
+
+header{
+	text-align: center;
+	background-color: darksalmon;
+	text-shadow: 1px 1px gray;
+}
+
+main{
+	text-align: center;
+}
+
+article{
+	margin: 20px;
+	border-style: hidden;
+	border-width: 1px;
+	letter-spacing: 0,2cm;
+	line-height: 1.8;
+}
+
+footer{
+	text-align: center;
+	padding: 1px;
+	background-color: darksalmon;
+	color: black;
+}
+
+footer a{
+	color:#566573F;
+	text-decoration: none;
+}
